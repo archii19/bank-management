@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "bank management system/src",
+        "bank management system/lib"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.32.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
